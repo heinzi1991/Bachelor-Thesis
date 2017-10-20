@@ -1,1 +1,1 @@
-# Bakk
+# Bachelor Thesis
