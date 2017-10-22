@@ -16,6 +16,7 @@ There are three types of simulation. The first type is wihtout coins and lives, 
   * "Space" => Deactivate the tower change controller
   
 * Mouse Inputs
+
   1. Before simulation start
     * "Left Mouse" => Create start and goal fields
     * "Right Mouse" => Create and remove path fields
