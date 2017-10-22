@@ -10,3 +10,20 @@ There are three types of simulation. The first type is wihtout coins and lives, 
 
 ### Inputs
 
+* Keyboard Inputs
+  * "C" => Activate and deactivate the camera controller
+  * "Q" => Deactivate the tower - choice
+  * "Space" => Deactivate the tower change controller
+  
+* Mouse Inputs
+  1. Before simulation start
+    * "Left Mouse" => Create start and goal fields
+    * "Right Mouse" => Create and remove path fields
+    
+  2. After simulation start
+    * "Left Mouse" => click on a tower and you can change the attributes of this tower category
+    * "Right Mouse " => click on a tower and you can see akk important information about this tower
+    
+    
+### Some information about this simulator
+
