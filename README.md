@@ -28,3 +28,6 @@ There are three types of simulation. The first type is wihtout coins and lives, 
     
 ### Some information about this simulator
 
+On the bottom of the game there are four buttons: "Game Options", "Start", "Built Manager" and "Restart". If you click the "Game Options" button, a panel appears on the left side. On this panel you must write all important facts of the game, like grid size and spawn options. Then you can click the "Create Field" button and a grid appears on the screen. Now you can create you path and then you can press the "Start" button and the simulation begins. Also the "Built Manager" appears on the right side. This panel has three buttons: "Turret", "Enemy" and "Stats". If you click the "Turret" button you can build a turret, if you click the "Enemy" button, you can change the attributes of the enemies. The last button activate the balancing panel. 
+
+
