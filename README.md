@@ -32,6 +32,6 @@ On the bottom of the game there are four buttons: "Game Options", "Start", "Buil
 
 ### Short video of the simulator
 
-[![Tuggy Boy Video](https://github.com/heinzi1991/GDDII/blob/master/Images/Tuggy%20Boy.png)](https://www.youtube.com/watch?v=MtHxPDz1r_M "Tuggy Boy")
+[![Tower Defense Simulator Video](https://github.com/heinzi1991/Bachelor-Thesis/blob/master/Images/Screenshot%20(5).png)](https://www.youtube.com/watch?v=MtHxPDz1r_M "Tower Defense Simulator")
 
 
