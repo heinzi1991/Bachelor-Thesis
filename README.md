@@ -33,8 +33,8 @@ On the bottom of the game there are four buttons: "Game Options", "Start", "Buil
 ### Playable Versions
 In the folder executables there are two playbale versions:
  
- * Windows = blabalabal
- * Mac = blabalbla
+ * Windows = Tower Defense Simulator Windows.exe
+ * Mac = Tower Defense Simulator Mac.app
 
 Also there is a playable version of the simulator on [itch.io](https://heinzi.itch.io/tower-defense-simulator).
 
