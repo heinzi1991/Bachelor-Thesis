@@ -25,6 +25,14 @@ There are three types of simulation. The first type is wihtout coins and lives, 
     * "Left Mouse" => click on a tower and you can change the attributes of this tower category
     * "Right Mouse " => click on a tower and you can see akk important information about this tower
     
+### Playable Versions
+In the folder executables there are two playbale versions:
+ 
+ * Windows = blabalabal
+ * Mac = blabalbla
+
+Also there is a playable version of the simulator on [itch.io](https://heinzi.itch.io/tower-defense-simulator).
+    
     
 ### Some information about this simulator
 
